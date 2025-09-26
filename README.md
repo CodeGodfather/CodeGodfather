@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @CodeGodfather
-- 👀 I’m interested in code
-- 🌱 I’m currently learning China
-- 💞️ I’m looking to collaborate on having some fun
-- 📫 How to reach me ...
+- 👋 Hi, I’m Jason
+- 🚀 I'm building Ai things
 
 <!---
 CodeGodfather/CodeGodfather is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
